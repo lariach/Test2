@@ -4,7 +4,7 @@ import HomePage from '../views/pages/home-page';
 // import BookingPage from '../views/pages/booking-page';
 // import CheckoutPage from '../views/pages/checkout-page';
 // import ArticlePage from '../views/pages/arcticle-page';
-// import AboutPage from '../views/pages/about-page';
+import AboutPage from '../views/pages/about-page';
 // import NonePage from '../views/pages/none-page';
 
 const routes = {
@@ -15,7 +15,7 @@ const routes = {
   // '/booking-page/:id': BookingPage,
   // '/checkout-page/:id': CheckoutPage,
   // '/article-page': ArticlePage,
-  // '/about-page': AboutPage,
+  '/about-page': AboutPage,
   // '/none-page': NonePage,
 };
 
